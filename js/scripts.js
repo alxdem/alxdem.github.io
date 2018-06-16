@@ -27,9 +27,6 @@ var switchBtnClickHandler = function(e) {
     }
   }
 
-  console.log('d: ' + target);
-  console.log('switchType: ' + switchType);
-  console.log('switchTypeName: ' + switchTypeName);
 }
 
 // Обработчик клика по кнопке "Показать все"
